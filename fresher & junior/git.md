@@ -1,16 +1,16 @@
 ### Table of Contents
-|#|Câu hỏi|
-| --- | --- |
-|  | [What is Routing?](#what-is-routing) |
-|  | [How many types of routes are there?](#how-many-types-of-routes-are-there) |
-|  | [What is web php?](#what-is-web-php) |
-|  | [What is api php?](#what-is-api-php) |
-|  | [What is channels php?](#what-is-channels-php) |
-|  | [What is console-php?](#what-is-console-php) |
-|  | [What is Controller?](#what-is-controller) |
-|  | [What are Views?](#what-are-views) |
-| | [What is a Model?](#what-is-a-model) |
-|| [What is Request-Response?](#what-is-request-response) |
+|#|Câu hỏi|#|Câu hỏi|
+| --- | --- | --- | --- |
+|  | [What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?](#what-is-routing) | |[What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?What is Routing?](#what-is-routing) |
+|  | [How many types of routes are there?](#how-many-types-of-routes-are-there) |  | [How many types of routes are there?](#how-many-types-of-routes-are-there) |
+|  | [What is web php?](#what-is-web-php) |  | [What is web php?](#what-is-web-php) |
+|  | [What is api php?](#what-is-api-php) |  | [What is api php?](#what-is-api-php) |
+|  | [What is channels php?](#what-is-channels-php) |  | [What is channels php?](#what-is-channels-php) |
+|  | [What is console-php?](#what-is-console-php) |  | [What is console-php?](#what-is-console-php) |
+|  | [What is Controller?](#what-is-controller) |  | [What is Controller?](#what-is-controller) |
+|  | [What are Views?](#what-are-views) |  | [What are Views?](#what-are-views) |
+| | [What is a Model?](#what-is-a-model) | | [What is a Model?](#what-is-a-model) |
+| | [What is Request-Response?](#what-is-request-response) | | [What is Request-Response?](#what-is-request-response) |
 
 ---------
 
